@@ -9,9 +9,4 @@ public class Post {
     public FormDate birthday;
 
 
-
-
-
-
-
 }
